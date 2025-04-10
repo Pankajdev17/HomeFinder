@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "blog-1",
+    "title": "10 Tips for First-Time Home Buyers",
+    "excerpt": "Navigating the real estate market can be daunting for first-time buyers. Here are essential tips to make the process smoother.",
+    "content": "Buying your first home is a significant milestone that comes with both excitement and challenges. This comprehensive guide offers ten essential tips to help first-time homebuyers navigate the real estate market with confidence. From understanding mortgage pre-approval to negotiating offers and closing costs, we cover every step of the process. We also discuss the importance of working with experienced real estate agents, conducting thorough home inspections, and maintaining realistic expectations throughout your home buying journey.",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2073&auto=format&fit=crop",
+    "author": "Emily Johnson",
+    "date": "April 5, 2025",
+    "tags": ["Buying", "First-Time Buyers", "Tips"]
+  },
+  {
+    "id": "blog-2",
+    "title": "The Rise of Sustainable Homes: What Buyers Should Know",
+    "excerpt": "Eco-friendly homes are becoming increasingly popular. Learn about sustainable features and their impact on property value.",
+    "content": "Sustainable homes are revolutionizing the real estate market, offering environmental benefits alongside significant cost savings for homeowners. This article explores the key features of eco-friendly properties, including solar panels, energy-efficient appliances, sustainable building materials, and smart home systems that minimize environmental impact. We also discuss how these features affect property values and potential tax incentives available for green home improvements. For environmentally conscious buyers, we provide guidance on identifying genuinely sustainable properties versus those with superficial 'green' marketing.",
+    "image": "https://images.unsplash.com/photo-1510627489930-0c1b0bfb6785?q=80&w=2070&auto=format&fit=crop",
+    "author": "Robert Chen",
+    "date": "March 28, 2025",
+    "tags": ["Sustainability", "Property Value", "Trends"]
+  },
+  {
+    "id": "blog-3",
+    "title": "Understanding Property Taxes: A Homeowner's Guide",
+    "excerpt": "Property taxes can significantly impact your homeownership costs. This guide explains everything you need to know.",
+    "content": "Property taxes represent one of the most significant ongoing expenses for homeowners, yet they're often misunderstood. This comprehensive guide demystifies property tax calculations, assessment processes, and payment schedules across different regions. We explain how local governments determine tax rates, when and how reassessments occur, and what factors might trigger tax increases. Additionally, we cover important exemptions and deductions that could save homeowners money, along with advice on challenging assessments if you believe your property has been overvalued. Understanding these fundamentals helps prospective and current homeowners budget accurately and avoid unexpected financial surprises.",
+    "image": "https://images.unsplash.com/photo-1586473219010-2ffc57b0d282?q=80&w=2070&auto=format&fit=crop",
+    "author": "Sarah Williams",
+    "date": "March 15, 2025",
+    "tags": ["Taxes", "Homeownership", "Financial Planning"]
+  }
+]

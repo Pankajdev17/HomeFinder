@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "testimonial-1",
+    "name": "James Wilson",
+    "location": "Miami, FL",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+    "comment": "Found my dream home in just two weeks! The search filters made it easy to narrow down exactly what I was looking for.",
+    "stars": 5
+  },
+  {
+    "id": "testimonial-2",
+    "name": "Lisa Rodriguez",
+    "location": "New York, NY",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+    "comment": "The virtual tours saved me so much time. I was able to view dozens of properties from my couch before scheduling in-person visits.",
+    "stars": 5
+  },
+  {
+    "id": "testimonial-3",
+    "name": "Michael Chang",
+    "location": "San Francisco, CA",
+    "avatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+    "comment": "As a real estate investor, I appreciate the detailed property information and neighborhood analytics. It helps me make informed decisions quickly.",
+    "stars": 4
+  }
+]

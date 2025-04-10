@@ -1,0 +1,803 @@
+
+[
+  {
+    "id": "prop-1",
+    "title": "Modern Waterfront Villa",
+    "price": 1250000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Miami",
+      "state": "FL",
+      "address": "123 Ocean Drive",
+      "zip": "33139"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["featured", "new"],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2800,
+    "description": "This stunning waterfront villa offers breathtaking views of the ocean, with luxurious finishes and modern design throughout. The property features an infinity pool, rooftop terrace, and private dock.",
+    "features": [
+      "Infinity Pool",
+      "Rooftop Terrace",
+      "Private Dock",
+      "Smart Home System",
+      "Floor-to-ceiling Windows",
+      "Chef's Kitchen",
+      "Home Theater"
+    ],
+    "propertyType": "villa",
+    "listed": "2 days ago",
+    "status": "sale",
+    "agent": {
+      "name": "Sarah Johnson",
+      "phone": "(305) 555-1234",
+      "email": "sarah@realestate.com",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-2",
+    "title": "Downtown Luxury Loft",
+    "price": 8500,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "address": "456 Broadway Ave",
+      "zip": "10012"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1527359443443-84a48aec73d2?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["featured"],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1800,
+    "description": "Stylish downtown loft with high ceilings, exposed brick walls, and premium finishes throughout. Offers stunning city views, modern kitchen, and building amenities including gym and roof deck.",
+    "features": [
+      "High Ceilings",
+      "Exposed Brick",
+      "Floor-to-ceiling Windows",
+      "Gym Access",
+      "Concierge Service",
+      "Rooftop Lounge",
+      "Pet Friendly"
+    ],
+    "propertyType": "apartment",
+    "listed": "1 week ago",
+    "status": "rent",
+    "agent": {
+      "name": "Michael Chen",
+      "phone": "(212) 555-5678",
+      "email": "michael@realestate.com",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-3",
+    "title": "Colonial Family Home",
+    "price": 850000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "address": "789 Maple Street",
+      "zip": "02108"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "area": 3600,
+    "description": "Charming colonial home in a family-friendly neighborhood with beautiful mature trees. Features include a gourmet kitchen, hardwood floors, finished basement, and spacious backyard with patio.",
+    "features": [
+      "Hardwood Floors",
+      "Gourmet Kitchen",
+      "Finished Basement",
+      "Fireplace",
+      "Large Backyard",
+      "Two-car Garage",
+      "Central Air"
+    ],
+    "propertyType": "house",
+    "listed": "3 days ago",
+    "status": "sale",
+    "agent": {
+      "name": "Emily Rodriguez",
+      "phone": "(617) 555-9012",
+      "email": "emily@realestate.com",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-4",
+    "title": "Countryside Cottage",
+    "price": 450000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Santa Rosa",
+      "state": "CA",
+      "address": "123 Vineyard Lane",
+      "zip": "95401"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?q=80&w=2004&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?q=80&w=1974&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1543503103-f94a0036ed9d?q=80&w=2065&auto=format&fit=crop"
+    ],
+    "badges": [],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1500,
+    "description": "Cozy cottage nestled in wine country with beautiful vineyard views. Features a wrap-around porch, updated kitchen, wood-burning fireplace, and mature garden with fruit trees.",
+    "features": [
+      "Wrap-around Porch",
+      "Wood-burning Fireplace",
+      "Updated Kitchen",
+      "Fruit Orchard",
+      "Mountain Views",
+      "Wine Cellar",
+      "Outdoor Kitchen"
+    ],
+    "propertyType": "house",
+    "listed": "2 weeks ago",
+    "status": "sale",
+    "agent": {
+      "name": "David Miller",
+      "phone": "(707) 555-3456",
+      "email": "david@realestate.com",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-5",
+    "title": "Beachfront Condo",
+    "price": 3200,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "San Diego",
+      "state": "CA",
+      "address": "555 Coast Blvd",
+      "zip": "92109"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1622015663084-307d19eabca0?q=80&w=2069&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["featured"],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1200,
+    "description": "Modern beachfront condo with panoramic ocean views from every room. Recently renovated with high-end finishes, this unit includes access to building amenities including pool, hot tub, and fitness center.",
+    "features": [
+      "Ocean Views",
+      "Private Balcony",
+      "Pool Access",
+      "Fitness Center",
+      "Secure Parking",
+      "Beach Access",
+      "Modern Appliances"
+    ],
+    "propertyType": "condo",
+    "listed": "1 month ago",
+    "status": "rent",
+    "agent": {
+      "name": "Jessica Taylor",
+      "phone": "(619) 555-7890",
+      "email": "jessica@realestate.com",
+      "image": "https://images.unsplash.com/photo-1589571894960-20bbe2828d0a?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-6",
+    "title": "Mountain View Cabin",
+    "price": 575000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Aspen",
+      "state": "CO",
+      "address": "789 Pine Trail",
+      "zip": "81611"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542718610-a1d656d1884c?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=2080&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1800,
+    "description": "Rustic yet modern cabin with stunning mountain views. Features include vaulted ceilings, stone fireplace, gourmet kitchen, and expansive deck perfect for outdoor entertaining.",
+    "features": [
+      "Mountain Views",
+      "Stone Fireplace",
+      "Vaulted Ceilings",
+      "Large Deck",
+      "Hot Tub",
+      "Ski Storage",
+      "Remote Work Office"
+    ],
+    "propertyType": "house",
+    "listed": "5 days ago",
+    "status": "sale",
+    "agent": {
+      "name": "Robert Wilson",
+      "phone": "(970) 555-2345",
+      "email": "robert@realestate.com",
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-7",
+    "title": "Historic Brownstone",
+    "price": 1750000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Brooklyn",
+      "state": "NY",
+      "address": "321 Lafayette Ave",
+      "zip": "11238"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1520608760-eff2c38c6cea?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595422536252-e9d0240e8fa5?q=80&w=1975&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=2080&auto=format&fit=crop"
+    ],
+    "badges": [],
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "area": 3200,
+    "description": "Beautifully restored brownstone with original architectural details and modern updates. Features include original hardwood floors, ornate moldings, chef's kitchen, and landscaped garden.",
+    "features": [
+      "Original Hardwood",
+      "Ornate Moldings",
+      "Chef's Kitchen",
+      "Private Garden",
+      "Multiple Fireplaces",
+      "Home Office",
+      "Wine Cellar"
+    ],
+    "propertyType": "townhouse",
+    "listed": "3 weeks ago",
+    "status": "sale",
+    "agent": {
+      "name": "Sophia Lee",
+      "phone": "(347) 555-6789",
+      "email": "sophia@realestate.com",
+      "image": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-8",
+    "title": "Modern Suburban Home",
+    "price": 3900,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "address": "456 Oakwood Dr",
+      "zip": "78703"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1581952976147-5a2d15560349?q=80&w=2071&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=2074&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2500,
+    "description": "Contemporary home in desirable neighborhood with open floor plan, plenty of natural light, and high-end finishes. Includes spacious backyard with covered patio, perfect for entertaining.",
+    "features": [
+      "Open Floor Plan",
+      "Covered Patio",
+      "Smart Home Features",
+      "Energy Efficient",
+      "Home Office",
+      "Fenced Backyard",
+      "Modern Fixtures"
+    ],
+    "propertyType": "house",
+    "listed": "1 week ago",
+    "status": "rent",
+    "agent": {
+      "name": "Daniel Brown",
+      "phone": "(512) 555-0123",
+      "email": "daniel@realestate.com",
+      "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=2070&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-9",
+    "title": "Luxury Penthouse Suite",
+    "price": 12500,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "address": "789 Lake Shore Drive",
+      "zip": "60611"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?q=80&w=2071&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["featured", "new"],
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "area": 3200,
+    "description": "Spectacular penthouse with panoramic views of Lake Michigan and the city skyline. Features include floor-to-ceiling windows, gourmet kitchen with top-of-the-line appliances, and private terrace.",
+    "features": [
+      "Panoramic Views",
+      "Private Terrace",
+      "Concierge Service",
+      "Private Elevator",
+      "Wine Storage",
+      "Smart Home System",
+      "Fitness Center"
+    ],
+    "propertyType": "penthouse",
+    "listed": "1 day ago",
+    "status": "rent",
+    "agent": {
+      "name": "Rebecca Wong",
+      "phone": "(312) 555-7890",
+      "email": "rebecca@realestate.com",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-10",
+    "title": "Desert Modern Estate",
+    "price": 2850000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Scottsdale",
+      "state": "AZ",
+      "address": "123 Saguaro Rd",
+      "zip": "85262"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?q=80&w=1974&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2075&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1780&auto=format&fit=crop"
+    ],
+    "badges": ["featured"],
+    "bedrooms": 5,
+    "bathrooms": 5.5,
+    "area": 4500,
+    "description": "Stunning contemporary desert estate with breathtaking mountain views. Features include a negative-edge pool, outdoor living areas, gourmet kitchen, and floor-to-ceiling windows throughout.",
+    "features": [
+      "Negative-edge Pool",
+      "Outdoor Kitchen",
+      "Home Theater",
+      "Wine Cellar",
+      "Mountain Views",
+      "Smart Home System",
+      "Guest House"
+    ],
+    "propertyType": "estate",
+    "listed": "2 weeks ago",
+    "status": "sale",
+    "agent": {
+      "name": "Jack Thompson",
+      "phone": "(480) 555-3456",
+      "email": "jack@realestate.com",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-11",
+    "title": "Downtown Office Space",
+    "price": 4500,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "Seattle",
+      "state": "WA",
+      "address": "456 Pike Street",
+      "zip": "98101"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": [],
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 1500,
+    "description": "Modern office space in prime downtown location. Features open concept design, conference room, kitchenette, and breathtaking views of Puget Sound. Building amenities include gym and rooftop terrace.",
+    "features": [
+      "Open Concept",
+      "Conference Room",
+      "High-speed Internet",
+      "Kitchenette",
+      "Building Security",
+      "Shared Rooftop",
+      "Parking Available"
+    ],
+    "propertyType": "office",
+    "listed": "1 month ago",
+    "status": "rent",
+    "agent": {
+      "name": "Olivia Scott",
+      "phone": "(206) 555-8901",
+      "email": "olivia@realestate.com",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1976&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-12",
+    "title": "Luxury Ski Chalet",
+    "price": 3250000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Vail",
+      "state": "CO",
+      "address": "789 Mountain View Rd",
+      "zip": "81657"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1548288434-73079100f5ad?q=80&w=1974&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1541265313101-7043fb302244?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "area": 4200,
+    "description": "Exquisite ski-in/ski-out chalet with stunning mountain views. Features include a great room with stone fireplace, gourmet kitchen, hot tub, sauna, and spacious ski storage area.",
+    "features": [
+      "Ski-in/Ski-out Access",
+      "Stone Fireplace",
+      "Hot Tub",
+      "Sauna",
+      "Heated Floors",
+      "Game Room",
+      "Boot Warming Room"
+    ],
+    "propertyType": "chalet",
+    "listed": "1 week ago",
+    "status": "sale",
+    "agent": {
+      "name": "Mark Stevens",
+      "phone": "(970) 555-6789",
+      "email": "mark@realestate.com",
+      "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-13",
+    "title": "Vineyard Estate",
+    "price": 4950000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Napa",
+      "state": "CA",
+      "address": "1000 Vineyard Lane",
+      "zip": "94558"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1615886143640-31cede2784a0?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1543489822-c49534f3271f?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["featured"],
+    "bedrooms": 5,
+    "bathrooms": 4.5,
+    "area": 5000,
+    "description": "Stunning vineyard estate on 15 acres with productive vines and panoramic valley views. The main residence features vaulted ceilings, chef's kitchen, wine cellar, and expansive outdoor entertaining areas.",
+    "features": [
+      "Productive Vineyard",
+      "Wine Cellar",
+      "Outdoor Kitchen",
+      "Pool and Spa",
+      "Guest House",
+      "Tasting Room",
+      "Panoramic Views"
+    ],
+    "propertyType": "estate",
+    "listed": "3 weeks ago",
+    "status": "sale",
+    "agent": {
+      "name": "Natalie Greene",
+      "phone": "(707) 555-1234",
+      "email": "natalie@realestate.com",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-14",
+    "title": "Urban Micro-Apartment",
+    "price": 1950,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "Portland",
+      "state": "OR",
+      "address": "987 Division St",
+      "zip": "97214"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1630699144339-420f59b4747b?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area": 450,
+    "description": "Cleverly designed micro-apartment in trendy neighborhood. Features include fold-down furniture, built-in storage throughout, and multi-purpose living spaces. Building includes co-working space and rooftop garden.",
+    "features": [
+      "Space-saving Design",
+      "Built-in Storage",
+      "Smart Appliances",
+      "Co-working Space",
+      "Rooftop Garden",
+      "Bike Storage",
+      "Pet Friendly"
+    ],
+    "propertyType": "apartment",
+    "listed": "2 days ago",
+    "status": "rent",
+    "agent": {
+      "name": "Alex Kim",
+      "phone": "(503) 555-5678",
+      "email": "alex@realestate.com",
+      "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-15",
+    "title": "Waterfront Restaurant Space",
+    "price": 8500,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "address": "101 Embarcadero",
+      "zip": "94105"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=2074&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=2074&auto=format&fit=crop"
+    ],
+    "badges": [],
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 2200,
+    "description": "Prime waterfront commercial space ideal for restaurant with stunning bay views. Features include large open dining area, professional kitchen setup, outdoor seating area, and ample parking.",
+    "features": [
+      "Waterfront Views",
+      "Professional Kitchen",
+      "Outdoor Seating",
+      "High Foot Traffic",
+      "ADA Compliant",
+      "Liquor License Available",
+      "Valet Parking"
+    ],
+    "propertyType": "commercial",
+    "listed": "2 months ago",
+    "status": "rent",
+    "agent": {
+      "name": "Thomas Rodriguez",
+      "phone": "(415) 555-9012",
+      "email": "thomas@realestate.com",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-16",
+    "title": "Minimalist Lakefront Cabin",
+    "price": 645000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Lake Tahoe",
+      "state": "CA",
+      "address": "542 Lakeshore Drive",
+      "zip": "96145"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1542718610-a1d656d1884c?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1464288550599-43d5a73451b8?q=80&w=2072&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1200,
+    "description": "Contemporary minimalist cabin with breathtaking lake views. Features include floor-to-ceiling windows, modern kitchen, wood-burning fireplace, and private dock with boat slip.",
+    "features": [
+      "Lake Views",
+      "Private Dock",
+      "Wood-burning Fireplace",
+      "Modern Kitchen",
+      "Open Floor Plan",
+      "Boat Slip",
+      "Hiking Trails"
+    ],
+    "propertyType": "cabin",
+    "listed": "1 week ago",
+    "status": "sale",
+    "agent": {
+      "name": "Jennifer Lewis",
+      "phone": "(530) 555-3456",
+      "email": "jennifer@realestate.com",
+      "image": "https://images.unsplash.com/photo-1614644147798-f8c0fc9da7f6?q=80&w=1972&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-17",
+    "title": "Industrial Warehouse Conversion",
+    "price": 950000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Nashville",
+      "state": "TN",
+      "address": "456 Industrial Way",
+      "zip": "37203"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2053&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1613575831056-0acd5da8f985?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687664-a54f7f0cb50b?q=80&w=1974&auto=format&fit=crop"
+    ],
+    "badges": ["featured"],
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "area": 3000,
+    "description": "Stylish warehouse conversion in trendy neighborhood. Features include soaring ceilings, exposed brick and ductwork, polished concrete floors, and open concept living areas ideal for entertaining.",
+    "features": [
+      "Exposed Brick",
+      "High Ceilings",
+      "Polished Concrete",
+      "Industrial Aesthetic",
+      "Rooftop Deck",
+      "Open Floor Plan",
+      "Artist Studio"
+    ],
+    "propertyType": "loft",
+    "listed": "2 weeks ago",
+    "status": "sale",
+    "agent": {
+      "name": "Marcus Washington",
+      "phone": "(615) 555-7890",
+      "email": "marcus@realestate.com",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-18",
+    "title": "Coastal Beach House",
+    "price": 2150000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Santa Monica",
+      "state": "CA",
+      "address": "123 Ocean Way",
+      "zip": "90402"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1780&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600566753051-f0b89df2dd90?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": [],
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2500,
+    "description": "Charming beach house just steps from the ocean. Features include a spacious deck with panoramic ocean views, light-filled living spaces, gourmet kitchen, and private garden with outdoor shower.",
+    "features": [
+      "Ocean Views",
+      "Beach Access",
+      "Outdoor Shower",
+      "Gourmet Kitchen",
+      "Fireplace",
+      "Large Deck",
+      "Indoor/Outdoor Living"
+    ],
+    "propertyType": "house",
+    "listed": "3 weeks ago",
+    "status": "sale",
+    "agent": {
+      "name": "Lauren Martinez",
+      "phone": "(310) 555-1234",
+      "email": "lauren@realestate.com",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=2071&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-19",
+    "title": "Retail Space in Shopping District",
+    "price": 5800,
+    "priceUnit": "$/month",
+    "location": {
+      "city": "Denver",
+      "state": "CO",
+      "address": "789 Cherry Creek Dr",
+      "zip": "80209"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1604328471151-b57f269133a3?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1582373718183-a71971e47b9e?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?q=80&w=2070&auto=format&fit=crop"
+    ],
+    "badges": ["new"],
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area": 1800,
+    "description": "Prime retail space in upscale shopping district with high foot traffic. Features include large display windows, flexible interior layout, storage room, and central location near popular restaurants and shops.",
+    "features": [
+      "High Visibility",
+      "Display Windows",
+      "Flexible Layout",
+      "Storage Space",
+      "Heavy Foot Traffic",
+      "Loading Zone",
+      "Signage Opportunities"
+    ],
+    "propertyType": "commercial",
+    "listed": "5 days ago",
+    "status": "rent",
+    "agent": {
+      "name": "Victor Patel",
+      "phone": "(303) 555-5678",
+      "email": "victor@realestate.com",
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?q=80&w=1974&auto=format&fit=crop"
+    }
+  },
+  {
+    "id": "prop-20",
+    "title": "Mid-Century Modern Home",
+    "price": 1250000,
+    "priceUnit": "$",
+    "location": {
+      "city": "Palm Springs",
+      "state": "CA",
+      "address": "1122 Desert Palm Dr",
+      "zip": "92262"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?q=80&w=2092&auto=format&fit=crop"
+    ],
+    "badges": ["featured"],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1800,
+    "description": "Authentic mid-century modern home with original architectural details. Features include walls of glass, terrazzo floors, period-appropriate updates, and swimming pool with mountain views.",
+    "features": [
+      "Mid-Century Design",
+      "Walls of Glass",
+      "Terrazzo Floors",
+      "Swimming Pool",
+      "Mountain Views",
+      "Period Details",
+      "Drought-resistant Landscaping"
+    ],
+    "propertyType": "house",
+    "listed": "1 month ago",
+    "status": "sale",
+    "agent": {
+      "name": "Samantha Rivera",
+      "phone": "(760) 555-9012",
+      "email": "samantha@realestate.com",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976&auto=format&fit=crop"
+    }
+  }
+]
